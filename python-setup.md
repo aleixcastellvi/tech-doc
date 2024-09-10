@@ -1,20 +1,20 @@
 # Python and Alias Setup Guide
 
-By default, macOS comes with Python and pip pre-installed, but it's often necessary to install newer versions and follow these configuration steps.
+By default, macOS comes with **python** and **pip** pre-installed, but it's often necessary to install newer versions and follow these configuration steps.
 
-First, ensure Python 3 is installed:
+You can download the latest version of Python (which includes pip by default) from the official Python website: [link here.](https://www.python.org/downloads)
+
+First, after installing python, ensure Python 3 is installed:
 
 ```bash
 which python3
 ```
 
-This should return something like:
+This should return something like the following. This is the full path where Python 3 is installed.
 
 ```
 /usr/local/bin/python3
 ```
-
-This is the full path where Python 3 is installed.
 
 You can also check the installed version with:
 
@@ -22,7 +22,7 @@ You can also check the installed version with:
 python3 --version
 ```
 
-If Python 3 is installed, you can create aliases to use python and pip instead of python3 and pip3. Follow these steps:
+If Python 3 is installed, you can create aliases to use `python` and `pip` instead of `python3` and `pip3`. Follow these steps:
 
 **Step 1: Check default shell**
 
@@ -88,4 +88,4 @@ python --version
 pip --version
 ```
 
-With this configuration, the python and pip commands will point to python3 and pip3 installed on your system.
+With this configuration, the `python` and `pip` commands will point to `python3` and `pip3` installed on your system.
