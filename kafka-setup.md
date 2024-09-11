@@ -1,4 +1,4 @@
-# Kafka Setup Guide to Generate Streaming Events
+# Kafka setup guide to generate streaming events
 
 ## Introduction
 

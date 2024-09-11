@@ -4,5 +4,6 @@ This repository contains Markdown files with technical content.
 
 Files:
 
-- [Python and Alias Setup Guide](/python-setup.md)
-- [Kafka Setup Guide to Generate Streaming Events](/kafka-setup.md)
+- [Python and alias setup guide](/python-setup.md)
+- [Kafka setup guide to generate streaming events](/kafka-setup.md)
+- [Poetry setup guide to create a local environment](/kafka-setup.md)

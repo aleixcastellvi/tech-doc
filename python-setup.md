@@ -1,4 +1,4 @@
-# Python and Alias Setup Guide
+# Python and alias setup guide
 
 By default, macOS comes with **python** and **pip** pre-installed, but it's often necessary to install newer versions and follow these configuration steps.
 
