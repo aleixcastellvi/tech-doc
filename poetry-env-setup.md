@@ -14,6 +14,16 @@ Run the following command to install Poetry:
 pip install poetry
 ```
 
+This will install the version of Poetry compatible with your locally installed version of Python.
+
+To confirm the installation and check the location of the Poetry executable, run:
+
+```bash
+which poetry
+```
+
+This command will display the path to the installed Poetry binary, ensuring it's properly set up in your environment.
+
 **Step 2**. Initialize the project
 
 Run the following command to initialize Poetry:
